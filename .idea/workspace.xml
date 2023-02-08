@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="811b7a9d-ef9d-4674-bffe-4904c6f98270" name="Changes" comment="My_work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KS0avlIoqsngItxYjd3XOGnXWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Images&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Chapter8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BolajiAirTest.testThatBoardingPassCanBeGenerated">
+    <configuration name="HotelMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HotelMain" />
+      <module name="Bolajiguy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns" />
+      <module name="Bolajiguy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BolajiAirTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bolajiguy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chapter8" />
+      <option name="MAIN_CLASS_NAME" value="Chapter8.BolajiAirTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BolajiAirTest.testThatBoardingPassCanBeGenerated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bolajiguy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chapter8" />
+      <option name="MAIN_CLASS_NAME" value="Chapter8.BolajiAirTest" />
+      <option name="METHOD_NAME" value="testThatBoardingPassCanBeGenerated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelTest.getAvailableRoomsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bolajiguy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chapter8" />
+      <option name="MAIN_CLASS_NAME" value="Chapter8.HotelTest" />
+      <option name="METHOD_NAME" value="getAvailableRoomsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BolajiAirTest.testThatBoardingPassCanBeGenerated" />
+        <item itemvalue="JUnit.BolajiAirTest" />
+        <item itemvalue="Application.patterns" />
+        <item itemvalue="Application.HotelMain" />
+        <item itemvalue="JUnit.HotelTest.getAvailableRoomsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="811b7a9d-ef9d-4674-bffe-4904c6f98270" name="Changes" comment="" />
+      <created>1673952745448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673952745448</updated>
+      <workItem from="1673952747145" duration="6167000" />
+      <workItem from="1674132958819" duration="3747000" />
+      <workItem from="1674136745978" duration="3160000" />
+      <workItem from="1674311657478" duration="3381000" />
+      <workItem from="1674633673693" duration="1113000" />
+      <workItem from="1674634843805" duration="4574000" />
+      <workItem from="1674816595007" duration="6922000" />
+      <workItem from="1675294171287" duration="108000" />
+      <workItem from="1675297129361" duration="1932000" />
+      <workItem from="1675326237510" duration="5194000" />
+      <workItem from="1675331930077" duration="8378000" />
+      <workItem from="1675343940822" duration="11640000" />
+      <workItem from="1675411861708" duration="6464000" />
+      <workItem from="1675419218216" duration="3982000" />
+      <workItem from="1675425179302" duration="15616000" />
+      <workItem from="1675711882592" duration="2479000" />
+      <workItem from="1675758649348" duration="2319000" />
+      <workItem from="1675762670283" duration="1374000" />
+      <workItem from="1675884686318" duration="3482000" />
+    </task>
+    <task id="LOCAL-00001" summary="My_work">
+      <created>1675887154776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887154776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My_work">
+      <created>1675887178268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887178268</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My_work" />
+    <option name="LAST_COMMIT_MESSAGE" value="My_work" />
+  </component>
+</project>
